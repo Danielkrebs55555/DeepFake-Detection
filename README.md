@@ -59,8 +59,8 @@ The proliferation of deepfakes poses a significant threat to digital content aut
 - Deploy as a browser extension or mobile app
 
 ## 🎥 Demo
-
-  ![Demo](assets/demo.gif)
+   
+  ![Image](https://github.com/user-attachments/assets/fb860436-4f40-4ce3-8e51-5179f63f4047)
 
 ---
 
