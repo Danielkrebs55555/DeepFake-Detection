@@ -40,6 +40,9 @@ The proliferation of deepfakes poses a significant threat to digital content aut
 - **LSTM Layer**: Identifies abnormal temporal patterns
 - **Output Layer**: Provides classification with explanation cues
 
+![image](https://github.com/user-attachments/assets/29ab12ca-ba37-40b6-b757-d705a3323445)
+
+
 ---
 
 ## 🚀 Features
