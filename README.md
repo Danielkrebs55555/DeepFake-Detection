@@ -60,7 +60,7 @@ The proliferation of deepfakes poses a significant threat to digital content aut
 
 ## 🎥 Demo
 
-    ![Demo](assets/demo.gif)
+  ![Demo](assets/demo.gif)
 
 ---
 
