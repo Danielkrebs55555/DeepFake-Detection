@@ -57,6 +57,13 @@ The proliferation of deepfakes poses a significant threat to digital content aut
 - Expand dataset diversity for improved generalization
 - Add support for live video stream input
 - Deploy as a browser extension or mobile app
+
+## 🎥 Demo
+
+![Demo](assets/demo.gif)
+
+---
+
 ## 📝 References
 
 A full list of academic references can be found in the documentation. Key works include research on CNN-LSTM models, deepfake detection benchmarks, and temporal feature analysis.
