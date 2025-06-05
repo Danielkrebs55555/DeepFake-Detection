@@ -73,4 +73,10 @@ A full list of academic references can be found in the documentation. Key works 
 
 ---
 
+## License
+
+This project is licensed under the MIT License.
+
+---
+
 
